@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/v-care-web-site/static/css/main.5851e942.css",
+    "main.js": "/v-care-web-site/static/js/main.f2a41f16.js",
+    "index.html": "/v-care-web-site/index.html",
+    "main.5851e942.css.map": "/v-care-web-site/static/css/main.5851e942.css.map",
+    "main.f2a41f16.js.map": "/v-care-web-site/static/js/main.f2a41f16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5851e942.css",
+    "static/js/main.f2a41f16.js"
+  ]
+}
