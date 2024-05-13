@@ -1,0 +1,42 @@
+.title-landing-section {
+  color: #199ed3;
+}
+
+.claim-acepptance-text {
+  color: #15634c;
+  font-weight: bold;
+}
+
+.text-land-section {
+  color: #54595f;
+}
+
+.button-call-us {
+  background-color: #199ed3;
+  color: #ffffff;
+  width: auto;
+}
+
+.button-leave-a-message {
+  background-color: #15634c;
+  color: #ffffff;
+  width: auto;
+}
+
+.button-leave-a-message:hover,
+.button-leave-a-message:focus,
+.button-leave-a-message:not(:disabled):not(.disabled):active,
+.button-leave-a-message:not(:disabled):not(.disabled).active,
+.show > .button-leave-a-message.dropdown-toggle {
+  color: #ffffff;
+  background-color: #1a3b31;
+}
+
+.button-call-us:hover,
+.button-call-us:focus,
+.button-call-us:not(:disabled):not(.disabled):active,
+.button-call-us:not(:disabled):not(.disabled).active,
+.show > .button-call-us.dropdown-toggle {
+  color: #ffffff;
+  background-color: #0b465e;
+}

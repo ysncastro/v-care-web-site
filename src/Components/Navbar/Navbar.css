@@ -1,0 +1,26 @@
+.button-contact-us {
+  background-color: #15634c;
+  color: #ffffff;
+  width: 150px;
+}
+
+.button-contact-us:hover,
+.button-contact-us:focus,
+.button-contact-us:not(:disabled):not(.disabled):active,
+.button-contact-us:not(:disabled):not(.disabled).active,
+.show > .button-contact-us.dropdown-toggle {
+  color: #ffffff;
+  background-color: #1a3b31;
+}
+
+.nav-personalizada {
+  border: #f4f2f7 0.5px solid;
+}
+
+.navbar-nav .nav-item .nav-link.active {
+  color: #199ed3;
+}
+
+.navbar-nav .nav-item .nav-link {
+  color: #000000;
+}
