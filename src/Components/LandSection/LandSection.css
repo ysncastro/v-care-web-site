@@ -2,6 +2,11 @@
   color: #199ed3;
 }
 
+.land-section-personalizada {
+  /* width: 100vh;
+  height: 100vh; */
+}
+
 .claim-acepptance-text {
   color: #15634c;
   font-weight: bold;
@@ -14,13 +19,13 @@
 .button-call-us {
   background-color: #199ed3;
   color: #ffffff;
-  width: auto;
+  width: 117px;
 }
 
 .button-leave-a-message {
   background-color: #15634c;
   color: #ffffff;
-  width: auto;
+  width: 200px;
 }
 
 .button-leave-a-message:hover,
