@@ -1,0 +1,18 @@
+.benefits-section {
+  background-color: #199ed3;
+}
+
+.benefits-title {
+  font-weight: bolder;
+  font-size: 36px;
+  color: white;
+  max-width: 80%;
+  padding-left: 10%;
+}
+
+.benefits-paragraph {
+  font-size: 16px;
+  color: white;
+  max-width: 80%;
+  padding-left: 10%;
+}
