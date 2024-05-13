@@ -1,0 +1,19 @@
+.footer {
+  background-color: #0088ca;
+  color: white;
+}
+
+.copyright-footer {
+  border-top: 1px white solid;
+}
+
+.subtitles-footer {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.schedules-footer {
+  background-color: #15634c;
+  width: 179px;
+  height: fit-content;
+}
