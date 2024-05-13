@@ -2,7 +2,7 @@ import "./BenefitsSection.css";
 
 function BenefitsSection() {
   return (
-    <div className="container mb-5">
+    <div id="benefits" className="container mb-5">
       <div className="benefits-section rounded-3 row align-items-center justify-content-center p-4">
         <div className="col-lg-6">
           <h1 className="benefits-title mb-4">

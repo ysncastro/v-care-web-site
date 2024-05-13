@@ -2,7 +2,7 @@ import "./ServicesSection.css";
 
 function ServicesSection() {
   return (
-    <div>
+    <div id="services">
       <h1 className="fw-bold fs-lg-9 fs-1 title-landing-section text-center mt-5">
         Medical Billing Services We Offer
       </h1>

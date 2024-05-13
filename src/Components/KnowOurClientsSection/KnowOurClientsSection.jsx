@@ -2,7 +2,10 @@ import "./KnowOurClientsSection.css";
 
 function KnowOurClientsSection() {
   return (
-    <div className="container know-our-clients-section-personalizada">
+    <div
+      id="clients"
+      className="container know-our-clients-section-personalizada"
+    >
       <div className="row">
         <div className="col-lg-5">
           <div>
