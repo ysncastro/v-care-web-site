@@ -6,4 +6,4 @@ Para praticar, procurei por um protótipo no site Figma Community para desenvolv
 Este foi o design utilizado de base para o código:
 https://www.figma.com/community/file/1334988788719795922
 
-<img src="print-projeto.png"/>
+<img src="./public/print-projeto.png"/>
